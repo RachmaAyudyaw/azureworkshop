@@ -8,7 +8,7 @@
 		$nama = $_POST['nama'];
 		$email = $_POST['email'];
 
-		echo '<h1>Halo, ' .$nama . '!</h1>';
+		echo '<h1>Halo, ' . $nama . '!</h1>';
 		echo 'Email : ' . $email;
 	}
 	?>
